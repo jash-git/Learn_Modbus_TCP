@@ -29,3 +29,4 @@ Modbus GOOGLE: Modbus tcp
 	
 
 PS.對應到自己部落格的連結:http://jashliao.pixnet.net/blog/post/221640713
+
