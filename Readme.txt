@@ -27,4 +27,5 @@ Modbus GOOGLE: Modbus tcp
 	04.zip-http://support.advantech.com/Support/DownloadSRDetail_New.aspx?SR_ID=1-NOV2O&Doc_Source=Download
 	05.pdf-http://support.advantech.com/Support/DownloadSRDetail_New.aspx?SR_ID=1-95WMW&Doc_Source=Download
 	
-	
+
+PS.對應到自己部落格的連結:http://jashliao.pixnet.net/blog/post/221640713
